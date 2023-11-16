@@ -1,8 +1,7 @@
-<h2></h2>
 <h4 align="center">
 小花的主页
 </h4>
 
 <p align="center">
-  <img src="https://github.com/Hana-Neko/Hana-Neko/blob/main/112841548.png" width="350">
+  <img src="https://github.com/Hana-Neko/Hana-Neko/blob/main/112841548.png" width="300">
 </p>
