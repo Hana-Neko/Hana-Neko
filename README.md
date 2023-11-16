@@ -3,5 +3,5 @@
 </h4>
 
 <p align="center">
-  <img src="https://github.com/Hana-Neko/Hana-Neko/blob/main/112841548.png" width="250">
+  <img src="https://github.com/Hana-Neko/Hana-Neko/blob/main/112841548.png" width="280">
 </p>
